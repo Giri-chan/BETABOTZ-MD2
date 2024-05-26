@@ -1,8 +1,8 @@
-global.owner = ['6285842647866']  
+global.owner = ['6283104089244']  
 global.mods = ['6285842647866'] 
 global.prems = ['6285842647866']
-global.nameowner = 'Lann'
-global.numberowner = '6285842647866'
+global.nameowner = 'Giri'
+global.numberowner = '6283104089244'
 global.mail = 'support@tioprm.eu.org' 
 global.gc = 'https://chat.whatsapp.com/G4f1fTpz9zL4EH3FyIcaPR'
 global.instagram = 'https://instagram.com/erlanrahmat_14'
@@ -15,11 +15,11 @@ global.author = 'Bot WhatsApp'
 global.maxwarn = '2' // Peringatan maksimum
 
 //INI WAJIB DI ISI!//
-global.lann = 'YOUR_APIKEY_HERE' 
+global.lann = 'X34sIl4v' 
 //Daftar terlebih dahulu https://api.betabotz.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.btc = 'YOUR_APIKEY_HERE'
+global.btc = 'X34sIl4v'
 //Daftar https://api.botcahx.eu.org 
 
 global.APIs = {   
